@@ -5,3 +5,5 @@ module 2 : https://kavandalal.github.io/coursera_assignment/module_2_sol/index.h
 module 3 : https://kavandalal.github.io/coursera_assignment/module_3_sol/index.html
 
 module 4 : https://kavandalal.github.io/coursera_assignment/module_4_sol/index.html
+
+module 5 : https://kavandalal.github.io/coursera_assignment/module_5_sol/index.html
